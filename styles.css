@@ -1,0 +1,19 @@
+body{
+  background: blue;
+  font-family: Helvetica;
+}
+h1{
+  color: purple;
+  text-align: center;
+}
+.assign{
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: yellow;
+}
+.assign img{
+  width: 200px;
+  padding: 10px;
+}
+  
