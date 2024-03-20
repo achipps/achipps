@@ -3,14 +3,14 @@ body{
   font-family: Helvetica;
 }
 h1{
-  color: yellow;
+  color: white;
   text-align: center;
 }
 .assign{
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: yellow;
+  background: silver;
 }
 .assign img{
   width: 200px;
